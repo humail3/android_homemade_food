@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homemade Food</string>
+    <string name="hint_name">Name <font color="#FF0000">*</font></string>
+    <string name="hint_email">Email <font color="#FF0000">*</font></string>
+    <string name="hint_password">Password <font color="#FF0000">*</font></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="client_id">830931094579-mikgllaci2abfn2c54m5ccdgg7atu4vi.apps.googleusercontent.com</string>
+</resources>

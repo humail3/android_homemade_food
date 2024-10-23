@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089549576777",
+    "project_id": "home-food-35c67",
+    "storage_bucket": "home-food-35c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089549576777:android:69ed1e3b2bad4077466d98",
+        "android_client_info": {
+          "package_name": "uo.nexton.homemadefood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy3K9A1n1HdajofbBWnPiKplsxAmQqoO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
